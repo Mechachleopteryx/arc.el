@@ -1,6 +1,6 @@
 arc.el
 ======
-An Emacs mode for the Arc dialect of Lisp
+An Emacs mode for the `Arc <http://www.paulgraham.com/arc.html>`_ dialect of Lisp
 
 The code is from the `Arc wiki <https://sites.google.com/site/arclanguagewiki/getting-started/installing-emacs>`_, with modifications to support REPL interaction.
 
