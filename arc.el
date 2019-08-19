@@ -396,6 +396,10 @@ This is the directory that contains the file `as.scm`."
 
 
 
+;;; Use arc mode for .arc files
+;;;###autoload
+(add-to-list 'auto-mode-alist '("\\.arc\\'" . arc-mode))
+
 ;;; REPL interaction
 
 ;; REPL-related code is adapted with minor modifications
